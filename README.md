@@ -14,3 +14,14 @@ Fórmula utilizada para fazer esse calculo é essa:
 O objetivo do projeto era captura inputs, fazer uma varição dos inputs enviados e apos isso os dados são passados para callbacks que calcula primeiro o volume de área do objeto e outro que faz o cálculo de dilatação volumétrica, utilizei TypeScript, html e css
 
 ## Tecnologias 
+
+
+<div style="display: inline_block">  
+
+  <img align="center" alt="maikeg-alves" height="70" width="70" src="[https://github.com/maikeg-alves/frp/blob/main/icons8-javascript.svg](https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg)" />
+  
+  <img align="center" alt="maikeg-alves" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+
+  <img align="center" alt="maikeg-alves" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  
+</div>
