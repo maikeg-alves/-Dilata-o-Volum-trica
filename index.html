@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Calculando Dilatação Volumétrica </title>
+    <link rel="stylesheet" href="styles.css">
+<body>
+  <div class="main">
+    <div class="container-main">
+      <section class="flex-container">
+        <main class="bg_resul">
+          <div class="bg_row">  
+            <h1>Calculando a Dilatação Volumétrica</h1>
+            <p>
+              Dilatação térmica é o aumento das dimensões de um corpo
+              ocasionado pelo aumento de sua temperatura, o que causa
+              o aumento no grau de agitação de suas moléculas e 
+              consequentemente aumento na distância média entre as mesmas.
+            </p>
+             <h3>ΔV = V0.γ.Δθ</h3>
+            <p>
+              <strong>ΔV</strong> = Aumento da dilatação volumétrica<br>
+              <strong>V0</strong> = Volume inicial<br>
+              <strong>γ</strong> = Constante de dilatação<br>
+              <strong>Δθ</strong> = Aumento da temperatura<br>
+            </p>
+            <p>
+              <strong>preencha os dados e obtenha um resultado</strong>
+            </p>
+              
+            <div id="resultado"></div>  
+          </div>
+        </main>
+        
+        <main class="bg_form">
+          <form >
+            <label>Altura</label>
+            <input type="text" id="rAltura" placeholder="altura">
+            <label>Comprimento</label>
+            <input type="text" id="rComprimento" placeholder="comprimento">
+            <label>largura</label>
+            <input type="text" id="rLargura" placeholder="largura ">
+            <label>Material</label>
+            <select name="" id="select">
+              <option value="0">Aço</option>
+              <option value="1">Aluminio</option>
+              <option value="2">Cobre</option>
+              <option value="3">Concreto</option>
+              <option value="4">Ouro</option>
+            </select>
+            <label>Informe a temperatura iniciar</label>
+            <input type="text" id="tempinit" placeholder="temperatura inial da peça">
+            <!-- modal informativo -->
+            <div class="modal">
+              <p>
+                Defina a temperatura inicial da peça, normalmente a temperatura inicial é a temperatura da peça ao seu contato com o ar.
+              </p>
+            </div>
+
+            <label >informe a temperatura final</label>
+            <input type="text"  id="tempend" placeholder="temperatura final da peça ">
+             <!-- modal informativo -->
+            <div class="modal">
+              <p>
+               Defina a temperatura final da peça, normalmente a temperatura final é a temperatura da peça após ser exposta a temperatura 
+               maxima que você estipular. 
+              </p>
+            </div>
+           
+          </form> 
+
+          <button id="calcular" >Calcular</button>
+        </main>
+      </section>
+    </div>
+  </div>
+  
+
+    <script src="./src/main.ts" ></script>
+</body>
+</html>
