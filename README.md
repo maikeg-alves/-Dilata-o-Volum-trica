@@ -11,7 +11,7 @@ Fórmula utilizada para fazer esse calculo é essa:
 
 ## Objetivo 
 
-O objetivo do projeto era captura inputs, fazer uma varição dos inputs enviados e apos isso os dados são passados para callbacks que calcula primeiro o volume de área do objeto e outro que faz o cálculo de dilatação volumétrica, utilizei TypeScript, html e css
+O objetivo do projeto era captura inputs, fazer uma validação dos inputs enviados e apos isso os dados são passados para callbacks que calcula primeiro o volume de área do objeto e outro que faz o cálculo de dilatação volumétrica, utilizei TypeScript, html e css
 
 ## Tecnologias 
 
