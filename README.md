@@ -18,7 +18,8 @@ O objetivo do projeto era captura inputs, fazer uma varição dos inputs enviado
 
 <div style="display: inline_block">  
 
-  <img align="center" alt="maikeg-alves" height="70" width="70" src="[https://github.com/maikeg-alves/frp/blob/main/icons8-javascript.svg](https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg)" />
+  <img align="center" alt="maikeg-alves" height="70" width="70"
+src="https://commons.wikimedia.org/wiki/File:Typescript_logo_2020.svg#/media/File:Typescript_logo_2020.svg" />
   
   <img align="center" alt="maikeg-alves" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
 
